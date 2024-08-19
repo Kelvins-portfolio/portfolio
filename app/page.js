@@ -12,7 +12,7 @@ export default function Home() {
             <h1 className="text-3xl">Kelvin Mburu</h1> 
             <h2>Web Developer</h2> 
             <p className="leading-5">
-              Hi there! I'm John, a seasoned web developer passionate about crafting clean and dynamic websites. With 2 years of experience, I specialize in front-end and back-end development using HTML, CSS, JavaScript, SEO, Mongodb and frameworks like React and Nodejs.
+              Hi there! I'm Kelvin, a seasoned web developer passionate about crafting clean and dynamic websites. With 2 years of experience, I specialize in front-end and back-end development using HTML, CSS, JavaScript, SEO, Mongodb and frameworks like React and Nodejs.
 
               I thrive on creating user-centric designs and optimizing performance for seamless browsing experiences.
 
